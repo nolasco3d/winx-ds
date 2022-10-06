@@ -1,6 +1,5 @@
 <template>
   <div>
-    home page
     <card-component></card-component>
   </div>
 </template>
