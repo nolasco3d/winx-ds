@@ -6,13 +6,12 @@
         Meu card
       </slot>
 
-      <B>Card details</B>
+      <buttom-component>Card details</buttom-component>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import B from './ButtonComponent.vue'
 </script>
 
 <style scoped>
